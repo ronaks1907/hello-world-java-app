@@ -1,4 +1,4 @@
-<h1><b><marquee> This Is Done By ALL Automation </marquee></b></h1>
+<center><h1><b>This Is Done By ALL Automation</b></h1></center>
 <form action="action_page.php">
   <div class="container">
 	  <h1><b>New user Register for DevOps Learning</b></h1>
